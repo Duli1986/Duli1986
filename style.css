@@ -1,0 +1,61 @@
+h2
+{
+    text-align: center;
+    padding-top: 5rem;
+    text-transform: uppercase;
+}
+
+nav a
+{
+ padding: 2rem 2.8rem;
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial, Verdana, sans-serif;   
+}
+
+nav div
+{
+padding: 0.6rem 0rem;
+display: inline-block;
+border-left: 5px solid white;
+}
+
+nav a:hover,nav a:active {
+  color: blue;
+  transition: all 0.5s ease;
+}
+
+header nav {
+    padding: 0 5px;
+    background-color: #FAE100;
+}
+
+header > div > div,
+nav {
+ padding: 20px;
+    width: 850px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+header > div > div,
+section {
+    padding: 20px;
+    width: 850px;
+    margin: 0 auto;
+}
+
+main a {
+color: #ba2710;
+text-decoration: underline;
+}
+
+table
+{
+ width: 100%;
+ table-layout: fixed;
+}
+body {background-image: url("http://www.texturex.com/albums/Metal-Textures/light%20brushed%20metal%20texture%20silver%20platinum%20stock%20wallpaper.jpg")}
+div#logo{padding-left: 250px; padding-top: 20px; padding-bottom:10px}
+body{background-color:white}
